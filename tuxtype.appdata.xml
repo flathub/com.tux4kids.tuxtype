@@ -3,15 +3,15 @@
 <application>
   <id type="desktop">tuxtype.desktop</id>
   <metadata_license>CC0-1.0</metadata_license>
-  <description>
-    <p>
-      TuxTyping is an educational typing tutor for kids starring Tux, the Linux
-      penguin.
-    </p>
-    <p>
-      This educational game comes with two different games for practicing your
-      typing, and having a great time doing it.
-    </p>
+  <name>Tux Typing</name>
+  <name xml:lang="pt_BR">Tecla Tux</name>
+  <name xml:lang="es">Teclea Tux</name>
+  <summary>Learn to type by playing games</summary>
+  <summary xml:lang="pt_BR">Ferramenta para crianças aprenderem a digitar</summary>
+  <summary xml:lang="es">Ahora niños se divertirán aprendiendo a teclear</summary>
+  <description><p>This fun application is a great way for kids, and even adults, to learn how to type! Learn the basics, or improve your skills by playing games that teach you how to use a keyboard without even looking at it. Children today are growing up surrounded by computers and mobile devices, and learning how to use these technologies well will only grow more important in the future. Start them off with a great foundation by downloading this app and encouraging them to play!</p>
+    <description xml:lang="pt_BR"><p>Este programa divertido é um ótimo meio para crianças e adultos aprenderem a digitar! Aprenda o básico ou aprimore suas habilidades com jogos que o ensinam como usar um teclado sem nem precisar olhar para ele. As crianças de hoje estão crescendo rodeadas de computadores e dispositivos móveis, e aprender como usar essas tecnologias adequadamente é muito importante para o seu futuro. Ajude-os a começar da forma correta, baixando este programa e incentivando-os a jogar!</p>
+      <description xml:lang="es"><p>Esta aplicación divertida les ayuda a niños aprender a escribir a máquina, e incluso puede ayudar hasta adultos hacer lo mismo. Aprende los conceptos básicos, o mejora tus habilidades, por medio de juegos que te enseñan a usar un teclado sin siquiera mirarlo. Los niños de hoy están creciendo rodeados de computadoras y otros electrónicos, y aprender a utilizar estas tecnologías correctamente será aún más importante en el futuro. ¡Comienza por darles los fundamentos al descargar este programa y animándolos a jugar!</p>
   </description>
   <url type="homepage">http://tux4kids.alioth.debian.org/tuxtype/index.php</url>
   <screenshots>
