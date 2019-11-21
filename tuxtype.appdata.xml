@@ -2,6 +2,12 @@
 <!-- Copyright 2014 Richard Hughes <richard@hughsie.com> -->
 <application>
   <id type="desktop">tuxtype.desktop</id>
+  <name>Tux Typing</name>
+  <summary>Educational typing tutor game starring Tux</summary>
+  <summary xml:lang="de">Tastatur-Lernspielprogramm mit Tux</summary>
+  <summary xml:lang="fr">Apprenez à taper au clavier avec Tux</summary>
+  <summary xml:lang="ru">Kлавиатурный тренажер с пингвином в главной роли</summary>
+  <summary xml:lang="tr">Daktilo Öğretmeni</summary>
   <metadata_license>CC0-1.0</metadata_license>
   <description>
     <p>
