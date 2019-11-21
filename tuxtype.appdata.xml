@@ -2,6 +2,13 @@
 <!-- Copyright 2014 Richard Hughes <richard@hughsie.com> -->
 <application>
   <id type="desktop">tuxtype.desktop</id>
+  <name>Tux Typing</name>
+  <summary>Educational typing tutor game starring Tux</summary>
+  <summary xml:lang="de">Tastatur-Lernspielprogramm mit Tux</summary>
+  <summary xml:lang="fr">Apprenez à taper au clavier avec Tux</summary>
+  <summary xml:lang="ru">Kлавиатурный тренажер с пингвином в главной роли</summary>
+  <summary xml:lang="tr">Daktilo Öğretmeni</summary>
+  <project_license>GPL-3.0+</project_license>
   <metadata_license>CC0-1.0</metadata_license>
   <description>
     <p>
@@ -13,12 +20,20 @@
       typing, and having a great time doing it.
     </p>
   </description>
-  <url type="homepage">http://tux4kids.alioth.debian.org/tuxtype/index.php</url>
+  <url type="homepage">https://github.com/tux4kids/tuxtype</url>
   <screenshots>
-    <screenshot type="default">http://tux4kids.alioth.debian.org/tuxtype/screenshots/tux_eat_fish.jpg</screenshot>
-    <screenshot>http://tux4kids.alioth.debian.org/tuxtype/screenshots/tux_waiting.jpg</screenshot>
+    <screenshot type="default">https://github.com/flathub/com.tux4kids.tuxtype/raw/268add897aecd58844a602d47c184232faf78fdb/screenshots/fish.png</screenshot>
+    <screenshot>https://github.com/flathub/com.tux4kids.tuxtype/raw/268add897aecd58844a602d47c184232faf78fdb/screenshots/space.png</screenshot>
   </screenshots>
+  <translation type="gettext">tuxtype</translation>
   <!-- FIXME: change this to an upstream email address for spec updates
   <updatecontact>someone_who_cares@upstream_project.org</updatecontact>
    -->
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">mild</content_attribute>
+    <content_attribute id="social-chat">mild</content_attribute>
+  </content_rating>
+  <releases>
+    <release version="1.8.3" date="2014-08-20"/>
+  </releases>
 </application>
