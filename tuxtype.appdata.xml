@@ -3,23 +3,20 @@
 <application>
   <id type="desktop">tuxtype.desktop</id>
   <name>Tux Typing</name>
+  <name xml:lang="pt_BR">Tecla Tux</name>
+  <name xml:lang="es">Teclea Tux</name>
   <summary>Educational typing tutor game starring Tux</summary>
   <summary xml:lang="de">Tastatur-Lernspielprogramm mit Tux</summary>
   <summary xml:lang="fr">Apprenez à taper au clavier avec Tux</summary>
   <summary xml:lang="ru">Kлавиатурный тренажер с пингвином в главной роли</summary>
   <summary xml:lang="tr">Daktilo Öğretmeni</summary>
+  <summary xml:lang="pt_BR">Ferramenta para crianças aprenderem a digitar</summary>
+  <summary xml:lang="es">Ahora niños se divertirán aprendiendo a teclear</summary>
   <project_license>GPL-3.0+</project_license>
   <metadata_license>CC0-1.0</metadata_license>
-  <description>
-    <p>
-      TuxTyping is an educational typing tutor for kids starring Tux, the Linux
-      penguin.
-    </p>
-    <p>
-      This educational game comes with two different games for practicing your
-      typing, and having a great time doing it.
-    </p>
-  </description>
+  <description><p>This fun application is a great way for kids, and even adults, to learn how to type! Learn the basics, or improve your skills by playing games that teach you how to use a keyboard without even looking at it. Children today are growing up surrounded by computers and mobile devices, and learning how to use these technologies well will only grow more important in the future. Start them off with a great foundation by downloading this app and encouraging them to play!</p></description>
+  <description xml:lang="pt_BR"><p>Este programa divertido é um ótimo meio para crianças e adultos aprenderem a digitar! Aprenda o básico ou aprimore suas habilidades com jogos que o ensinam como usar um teclado sem nem precisar olhar para ele. As crianças de hoje estão crescendo rodeadas de computadores e dispositivos móveis, e aprender como usar essas tecnologias adequadamente é muito importante para o seu futuro. Ajude-os a começar da forma correta, baixando este programa e incentivando-os a jogar!</p></description>
+  <description xml:lang="es"><p>Esta aplicación divertida les ayuda a niños aprender a escribir a máquina, e incluso puede ayudar hasta adultos hacer lo mismo. Aprende los conceptos básicos, o mejora tus habilidades, por medio de juegos que te enseñan a usar un teclado sin siquiera mirarlo. Los niños de hoy están creciendo rodeados de computadoras y otros electrónicos, y aprender a utilizar estas tecnologías correctamente será aún más importante en el futuro. ¡Comienza por darles los fundamentos al descargar este programa y animándolos a jugar!</p></description>
   <url type="homepage">https://github.com/tux4kids/tuxtype</url>
   <screenshots>
     <screenshot type="default">https://github.com/flathub/com.tux4kids.tuxtype/raw/268add897aecd58844a602d47c184232faf78fdb/screenshots/fish.png</screenshot>
