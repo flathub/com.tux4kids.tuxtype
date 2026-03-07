@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Copyright 2014 Richard Hughes <richard@hughsie.com> -->
-<application>
-  <id type="desktop">tuxtype.desktop</id>
+<component type="desktop-application">
+  <id>tuxtype.desktop</id>
   <name>Tux Typing</name>
   <summary>Educational typing tutor game starring Tux</summary>
   <summary xml:lang="de">Tastatur-Lernspielprogramm mit Tux</summary>
@@ -21,9 +21,19 @@
     </p>
   </description>
   <url type="homepage">https://github.com/tux4kids/tuxtype</url>
+  <url type="bugtracker">https://github.com/tux4kids/tuxtype/issues</url>
+  <url type="vcs-browser">https://github.com/tux4kids/tuxtype</url>
+  <launchable type="desktop-id">tuxtype.desktop</launchable>
+  <developer id="com.tux4kids">
+    <name>tux4kids</name>
+  </developer>
   <screenshots>
-    <screenshot type="default">https://github.com/flathub/com.tux4kids.tuxtype/raw/268add897aecd58844a602d47c184232faf78fdb/screenshots/fish.png</screenshot>
-    <screenshot>https://github.com/flathub/com.tux4kids.tuxtype/raw/268add897aecd58844a602d47c184232faf78fdb/screenshots/space.png</screenshot>
+    <screenshot type="default">
+      <image>https://github.com/flathub/com.tux4kids.tuxtype/raw/268add897aecd58844a602d47c184232faf78fdb/screenshots/fish.png</image>
+    </screenshot>
+    <screenshot>
+      <image>https://github.com/flathub/com.tux4kids.tuxtype/raw/268add897aecd58844a602d47c184232faf78fdb/screenshots/space.png</image>
+    </screenshot>
   </screenshots>
   <translation type="gettext">tuxtype</translation>
   <!-- FIXME: change this to an upstream email address for spec updates
@@ -36,4 +46,4 @@
   <releases>
     <release version="1.8.3" date="2014-08-20"/>
   </releases>
-</application>
+</component>
